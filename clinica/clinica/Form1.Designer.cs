@@ -214,9 +214,9 @@ namespace clinica
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(558, 22);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(46, 17);
+            this.label9.Size = new System.Drawing.Size(43, 17);
             this.label9.TabIndex = 10;
-            this.label9.Text = "label9";
+            this.label9.Text = "Sexo:";
             // 
             // label10
             // 
